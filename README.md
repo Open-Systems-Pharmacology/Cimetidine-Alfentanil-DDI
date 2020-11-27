@@ -1,2 +1,2 @@
-# Cimetidine-Alprazolam-DDI
-Modeling of published clinical Cimetidine-Alprazolam-DDI studies for model evaluation 
+# Cimetidine-Alfantanil-DDI
+Modeling of published clinical Cimetidine-Alfenatnil-DDI studies for model evaluation 
